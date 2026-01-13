@@ -2,7 +2,8 @@
   "name": "remotion-render",
   "version": "1.0.0",
   "scripts": {
-    "render": "npx remotion --version"
+    "render": ""render": "npx remotion render src/index.js Hello out.mp4"
+"
   },
   "dependencies": {
     "remotion": "^4.0.0",
